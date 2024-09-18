@@ -1,0 +1,20 @@
+# Cálculo da Área do Círculo
+
+Este projeto é uma simples aplicação em Python para calcular a área de um círculo com base no raio fornecido pelo usuário. O projeto visa demonstrar o uso de funções e operações matemáticas básicas em Python.
+
+## Funcionalidades
+
+- Entrada do raio do círculo pelo usuário.
+- Cálculo da área usando a fórmula: `área = π * raio^2`.
+- Exibição do resultado ao usuário.
+
+## Requisitos
+
+- Python 3.x
+
+## Como Executar
+
+1. Clone este repositório:
+
+   
+   git clone https://github.com/seu-usuario/calculo-area-circulo.git
